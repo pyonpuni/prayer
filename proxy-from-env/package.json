@@ -1,0 +1,60 @@
+{
+  "_from": "@types/proxy-from-env@ts4.8",
+  "_id": "@types/proxy-from-env@1.0.4",
+  "_inBundle": false,
+  "_integrity": "sha512-TPR9/bCZAr3V1eHN4G3LD3OLicdJjqX1QRXWuNcCYgE66f/K8jO2ZRtHxI2D9MbnuUP6+qiKSS8eUHp6TFHGCw==",
+  "_location": "/@types/proxy-from-env",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/proxy-from-env@ts4.8",
+    "name": "@types/proxy-from-env",
+    "escapedName": "@types%2fproxy-from-env",
+    "scope": "@types",
+    "rawSpec": "ts4.8",
+    "saveSpec": null,
+    "fetchSpec": "ts4.8"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/proxy-from-env/-/proxy-from-env-1.0.4.tgz",
+  "_shasum": "0a0545768f2d6c16b81a84ffefb53b423807907c",
+  "_spec": "@types/proxy-from-env@ts4.8",
+  "_where": "/home/runner/dogboy/.cache/typescript/4.8",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "JasonHK",
+      "url": "https://github.com/JasonHK"
+    },
+    {
+      "name": "FloPes",
+      "url": "https://github.com/flopes89"
+    }
+  ],
+  "dependencies": {
+    "@types/node": "*"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for proxy-from-env",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/proxy-from-env",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/proxy-from-env",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/proxy-from-env"
+  },
+  "scripts": {},
+  "typeScriptVersion": "4.5",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "b76b283db6706b25fb3ade4269719f55f63a9bbd7fcce73c675a7ae0e4894666",
+  "version": "1.0.4"
+}

@@ -1,0 +1,62 @@
+{
+  "_from": "@types/object-inspect@ts4.8",
+  "_id": "@types/object-inspect@1.8.4",
+  "_inBundle": false,
+  "_integrity": "sha512-2yh72JxmDney1h7LQvkyO8p8FOmNMQXGs8HjuXS3SXvE/dLydLLjBqKCdHqcTUo66CQVHfn7yFR680bvi9jlVw==",
+  "_location": "/@types/object-inspect",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/object-inspect@ts4.8",
+    "name": "@types/object-inspect",
+    "escapedName": "@types%2fobject-inspect",
+    "scope": "@types",
+    "rawSpec": "ts4.8",
+    "saveSpec": null,
+    "fetchSpec": "ts4.8"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/object-inspect/-/object-inspect-1.8.4.tgz",
+  "_shasum": "470c8203ed227fe883004f89427e5317d9aa3564",
+  "_spec": "@types/object-inspect@ts4.8",
+  "_where": "/home/runner/dogboy/.cache/typescript/4.8",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Charles Samborski",
+      "url": "https://github.com/demurgos"
+    },
+    {
+      "name": "Akuukis",
+      "url": "https://github.com/Akuukis"
+    },
+    {
+      "name": "Jordan Harband",
+      "url": "https://github.com/ljharb"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for object-inspect",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/object-inspect",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/object-inspect",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/object-inspect"
+  },
+  "scripts": {},
+  "typeScriptVersion": "4.5",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "0797b0ee16eb4d83200c2762004e1eebd5604423cd5addf566ac521070467251",
+  "version": "1.8.4"
+}
