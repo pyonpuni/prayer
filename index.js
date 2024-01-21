@@ -26,14 +26,14 @@ client.on('ready', async () => {
     .setApplicationId('1170948236769493052')
     .setType('STREAMING')
     .setURL('https://twitch.tv/developer') //Must be a youtube video link 
-    .setState('ドクドク呑み込んで')
+    .setState('お願い！ﾀﾋんでくれ')
     .setName('maso')
     .setDetails(`།𓎟𓎟𓎟†𓎟𓎟𓎟།`)
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('https://media.discordapp.net/attachments/1011444419838353429/1196996721251729408/Untitled558_20240115161249_10.gif?ex=65b9a911&is=65a73411&hm=cf2a3089fe8353686d037fd88c2a6b722f544e0932cda804e5f656b0e4ccf0d9&') //You can put links in tenor or discord and etc.
-.setAssetsSmallImage('https://media.discordapp.net/attachments/1011444419838353429/1196996721666953216/IMG_4059_2.gif?ex=65b9a911&is=65a73411&hm=f05ed2f7c47f2fdc38a8717e9afb294d265d74e13f3d5930d73b52e0e298597d&')
-    .setAssetsLargeText('無いの？もっと	') //Text when you hover the Large image
-    .addButton('♡', 'https://rentry.co/idoljoshi')
+ .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1011444419838353429/1198449882822885467/33C636B2-9B0C-4B41-BB68-8C4DF0F6B7A9_8.gif?ex=65bef26e&is=65ac7d6e&hm=1c56b2eaee6dc1e987267f95e5de06549857c58c89e5372e12fbe059d64804f9&') //You can put links in tenor or discord and etc.
+.setAssetsSmallImage('https://cdn.discordapp.com/attachments/1011444419838353429/1198449882428625017/IMG_5774.gif?ex=65bef26e&is=65ac7d6e&hm=5f2ab6e0ea470cc7beb597f5363717c581c8ef43279d832356349f9e31e890b7&')
+    .setAssetsLargeText('なりたい　なれない') //Text when you hover the Large image
+    .addButton('♡', 'https://rentry.co/')
 
   client.user.setActivity(r);
   client.user.setPresence({ status: "dnd" }); //dnd, online, idle, offline
