@@ -1,0 +1,54 @@
+{
+  "_from": "@types/tr46@ts4.8",
+  "_id": "@types/tr46@3.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-GHa+gvc6Ci9lVloIZJlO+rufRVMA5PXrruGc5TmmtO3HoCj1N7mG7EOM9wzXsOmT/LFOXWEF+GyjNmj1wUc6eA==",
+  "_location": "/@types/tr46",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/tr46@ts4.8",
+    "name": "@types/tr46",
+    "escapedName": "@types%2ftr46",
+    "scope": "@types",
+    "rawSpec": "ts4.8",
+    "saveSpec": null,
+    "fetchSpec": "ts4.8"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/tr46/-/tr46-3.0.3.tgz",
+  "_shasum": "3d0345f5e2534993f493a0dac87aa476caa994b9",
+  "_spec": "@types/tr46@ts4.8",
+  "_where": "/home/runner/dogboy/.cache/typescript/4.8",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "BendingBender",
+      "url": "https://github.com/BendingBender"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for tr46",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/tr46",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/tr46",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/tr46"
+  },
+  "scripts": {},
+  "typeScriptVersion": "4.5",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "7cec7f4e2a4579c6f7f53180f4d0c565049355016648bf822fde2005d43a283f",
+  "version": "3.0.3"
+}
