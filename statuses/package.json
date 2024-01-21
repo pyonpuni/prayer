@@ -1,0 +1,58 @@
+{
+  "_from": "@types/statuses@ts4.8",
+  "_id": "@types/statuses@2.0.4",
+  "_inBundle": false,
+  "_integrity": "sha512-eqNDvZsCNY49OAXB0Firg/Sc2BgoWsntsLUdybGFOhAfCD6QJ2n9HXUIHGqt5qjrxmMv4wS8WLAw43ZkKcJ8Pw==",
+  "_location": "/@types/statuses",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/statuses@ts4.8",
+    "name": "@types/statuses",
+    "escapedName": "@types%2fstatuses",
+    "scope": "@types",
+    "rawSpec": "ts4.8",
+    "saveSpec": null,
+    "fetchSpec": "ts4.8"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/statuses/-/statuses-2.0.4.tgz",
+  "_shasum": "041143ba4a918e8f080f8b0ffbe3d4cb514e2315",
+  "_spec": "@types/statuses@ts4.8",
+  "_where": "/home/runner/dogboy/.cache/typescript/4.8",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Tanguy Krotoff",
+      "url": "https://github.com/tkrotoff"
+    },
+    {
+      "name": "BendingBender",
+      "url": "https://github.com/BendingBender"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for statuses",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/statuses",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/statuses",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/statuses"
+  },
+  "scripts": {},
+  "typeScriptVersion": "4.7",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "9fd8db69ac34585d46bd535c5b7f1f48dc8363472c13c2407833083af76e5893",
+  "version": "2.0.4"
+}
